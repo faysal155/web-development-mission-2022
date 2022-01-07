@@ -1,0 +1,126 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+.vertical-line{
+    border-left: 4px solid tomato;
+    position: absolute;
+    height: 120px;
+    left: 85px;
+    top: 150px;
+    border-radius: 15%;
+}
+h1{
+    font-size: 50px;
+    line-height: 40px;
+}
+section{
+    display: flex;
+    margin-left: 100px;
+}
+.first-section{
+    width: 50%;
+
+}
+.first-section img{
+    width: 80%;
+}
+#line-down{
+    margin-top: 100px;
+    
+}
+.font-color{
+    color: orange;
+}
+.button{
+    background-color: tomato;
+    color: white;
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.fix-padding{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-right: 200px;
+}
+.text-center{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    
+}
+.text-color{
+    color: rgb(75, 8, 75);
+}
+.my-mission{
+    display: flex;
+    
+}
+.mission{
+    
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    
+}
+.mission img{
+    width: 50%;
+}
+#bg-color-1{
+    background-color: rgb(235, 235, 235);
+}
+#bg-color-2{
+    background-color: rgb(214, 214, 214);
+}
+#bg-color-3{
+    background-color: blanchedalmond;
+}
+.second-section{
+    width: 50%;
+}
+.second-section img{
+    width: 80%;
+}
+.develop{
+    margin-top: 150px;
+    display: flex;
+    margin-left: 120px;
+}
+.third-container{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    position: absolute;
+    margin-bottom: 150px;
+}
+#fix-margin{
+    margin-left: 0px;
+}
+.fourth-container{
+    margin-top: 600px;
+}
+
+#fix-size{
+    margin-left: 0%;
+}
+#hight-fix{
+    margin-top: 100px;
+}
+#build{
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding:10px;
+}
